@@ -1,0 +1,21 @@
+{
+    "indent_size": 4,
+    "indent_char": " ",
+    "other": " ",
+    "indent_level": 0,
+    "indent_with_tabs": false,
+    "preserve_newlines": true,
+    "max_preserve_newlines": 2,
+    "jslint_happy": true,
+    "indent_handlebars": true,
+     "html": {
+        "brace_style": "collapse",
+        "indent_char": " ",
+        "indent_scripts": "normal",
+        "indent_size": 4,
+        "max_preserve_newlines": 1,
+        "preserve_newlines": true,
+        "unformatted": ["table"],
+        "wrap_line_length": 0
+      }
+}
