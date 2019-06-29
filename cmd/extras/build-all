@@ -34,7 +34,7 @@ cmd/helpers/compile-uglify-minify "04-add-player"
 
 # Creating index.html
 
-cp build/04-add-keyboard.html build/index.html
+cp build/04-add-player.html build/index.html
 
 # Cleaning up
 
