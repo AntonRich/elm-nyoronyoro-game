@@ -8,16 +8,27 @@
 ![Building the Game](http://guupa.com/elm-nyoronyoro-game/images/composite.jpg)
 
 `01` [Demo](https://nyny.surge.sh/01-game-loop.html) | [Post](https://medium.com/@l.mugnaini/beginner-tutorials-how-to-build-a-game-in-elm-5491d6de8f25) | [Ellie](https://ellie-app.com/5LFH95YJqpya1) | `The Game Loop`
+
 `02` [Demo](https://nyny.surge.sh/02-add-keyboard.html) | [Post](https://medium.com/@l.mugnaini/beginner-tutorials-how-to-build-a-game-in-elm-part-2-ae26eef8610b) | [Ellie](https://ellie-app.com/5TgVyznFNVga1) | `Add Keyboard Support`
+
 `03` [Demo](https://nyny.surge.sh/03-add-pause.html) | [Post](https://medium.com/@l.mugnaini/beginner-tutorials-how-to-build-a-game-in-elm-part-3-fe62c51f7510) | [Ellie](https://ellie-app.com/5X2JjQgxJJxa1) | `Add the Pause`
+
 `04` [Demo](https://nyny.surge.sh/04-add-player) | Post | Ellie | `Add the Players`
+
 `05` Demo | Post | Ellie | `Add the Score     `
+
 `06` Demo | Post | Ellie | `And Random    `
+
 `07` Demo | Post | Ellie | `Add Shots     `
+
 `08` Demo | Post | Ellie | `Add Collisions`
+
 `09` Demo | Post | Ellie | `Add Explosions`
+
 `10` Demo | Post | Ellie | `Add Slow-motion`
+
 `11` Demo | Post | Ellie | `Add Sound     `
+
 `12` Demo | Post | Ellie | `Add Menu      `
 
 ## How to use this repository
