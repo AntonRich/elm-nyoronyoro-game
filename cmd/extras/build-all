@@ -12,6 +12,7 @@ printf "\n\e[0;32m🍣   Copying folders...\e[0m\n\n"
 
 cp -r docs/sounds  build/
 cp -r docs/js      build/
+cp -r docs/images  build/
 
 printf "\n\e[0;32m🍣   Copying files...\e[0m\n\n"
 

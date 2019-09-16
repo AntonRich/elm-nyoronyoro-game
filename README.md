@@ -3,9 +3,9 @@
 
 ### [Demo](https://nyny.surge.sh/04-add-player)
 
-![Nyoronyoro Game](http://guupa.com/elm-nyoronyoro-game/images/nyoronyoro.png)
+![Nyoronyoro Game](https://nyny.surge.sh/images/nyoronyoro.png)
 
-![Building the Game](http://guupa.com/elm-nyoronyoro-game/images/composite.jpg)
+![Building the Game](https://nyny.surge.sh/images/composite.jpg)
 
 `01` [Demo](https://nyny.surge.sh/01-game-loop.html) | [Post](https://medium.com/@l.mugnaini/beginner-tutorials-how-to-build-a-game-in-elm-5491d6de8f25) | [Ellie](https://ellie-app.com/5LFH95YJqpya1) | `The Game Loop`
 
