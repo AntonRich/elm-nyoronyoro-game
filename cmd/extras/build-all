@@ -24,18 +24,18 @@ cmd/helpers/compile-uglify-minify "01-game-loop"
 cmd/helpers/compile-uglify-minify "02-add-keyboard"
 cmd/helpers/compile-uglify-minify "03-add-pause"
 cmd/helpers/compile-uglify-minify "04-add-player"
-# cmd/helpers/compile-uglify-minify "05-add-score"
-# cmd/helpers/compile-uglify-minify "06-add-random"
-# cmd/helpers/compile-uglify-minify "07-add-shots"
-# cmd/helpers/compile-uglify-minify "08-detect-collisions"
-# cmd/helpers/compile-uglify-minify "09-add-explosions"
-# cmd/helpers/compile-uglify-minify "10-add-slomo"
-# cmd/helpers/compile-uglify-minify "11-add-sound"
-# cmd/helpers/compile-uglify-minify "12-add-menu"
+cmd/helpers/compile-uglify-minify "05-add-score"
+cmd/helpers/compile-uglify-minify "06-add-random"
+cmd/helpers/compile-uglify-minify "07-add-shots"
+cmd/helpers/compile-uglify-minify "08-detect-collisions"
+cmd/helpers/compile-uglify-minify "09-add-explosions"
+cmd/helpers/compile-uglify-minify "10-add-slomo"
+cmd/helpers/compile-uglify-minify "11-add-sound"
+cmd/helpers/compile-uglify-minify "12-add-menu"
 
 # Creating index.html
 
-cp build/04-add-player.html build/index.html
+cp build/12-add-menu.html build/index.html
 
 # Cleaning up
 

@@ -15,21 +15,21 @@
 
 `04` [Demo](https://nyny.surge.sh/04-add-player) | Post | Ellie | `Add the Players`
 
-`05` Demo | Post | Ellie | `Add the Score     `
+`05` [Demo](https://nyny.surge.sh/05-add-score) | Post | Ellie | `Add the Score     `
 
-`06` Demo | Post | Ellie | `And Random    `
+`06` [Demo](https://nyny.surge.sh/06-add-random) | Post | Ellie | `And Random    `
 
-`07` Demo | Post | Ellie | `Add Shots     `
+`07` [Demo](https://nyny.surge.sh/07-add-shots) | Post | Ellie | `Add Shots     `
 
-`08` Demo | Post | Ellie | `Add Collisions`
+`08` [Demo](https://nyny.surge.sh/08-detect-collisions) | Post | Ellie | `Add Collisions`
 
-`09` Demo | Post | Ellie | `Add Explosions`
+`09` [Demo](https://nyny.surge.sh/09-add-explosions) | Post | Ellie | `Add Explosions`
 
-`10` Demo | Post | Ellie | `Add Slow-motion`
+`10` [Demo](https://nyny.surge.sh/10-add-slomo) | Post | Ellie | `Add Slow-motion`
 
-`11` Demo | Post | Ellie | `Add Sound     `
+`11` [Demo](https://nyny.surge.sh/11-add-sound) | Post | Ellie | `Add Sound     `
 
-`12` Demo | Post | Ellie | `Add Menu      `
+`12` [Demo](https://nyny.surge.sh/12-add-menu) | Post | Ellie | `Add Menu      `
 
 ## How to use this repository
 
